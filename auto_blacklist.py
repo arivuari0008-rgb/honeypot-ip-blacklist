@@ -111,5 +111,5 @@ def main():
     print(f"[{datetime.now()}] Run complete. {len(new_ips)} new IP(s) processed.")
 
 
-if __name_ == "__main__":
+if _name_ == "_main_":
     main()
